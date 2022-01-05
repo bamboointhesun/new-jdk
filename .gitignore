@@ -24,3 +24,5 @@ hs_err_pid*
 /demo1/*.iml
 /.idea
 /demo1/*.iml
+/demo1/.idea
+/demo1/.mvn
