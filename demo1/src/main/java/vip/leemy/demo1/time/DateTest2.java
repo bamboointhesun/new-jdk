@@ -1,4 +1,4 @@
-package vip.leemy.demo1;
+package vip.leemy.demo1.time;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -33,15 +33,5 @@ public class DateTest2 {
         System.out.println(me.timeFormatter(1199767859));
         System.out.println(me.timeFormatter(1199767859,"yyyy-MM-dd HH:mm:ss"));
     }
-
-
-
-
-
-
-
-
-
-
 
 }
