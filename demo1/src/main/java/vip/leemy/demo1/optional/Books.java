@@ -16,4 +16,9 @@ public class Books {
     private int price;
     private String author;
     private String title;
+
+
+    public static void main(String[] args) {
+        String aa = "ss";
+    }
 }
